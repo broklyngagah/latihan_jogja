@@ -4,7 +4,6 @@ samsul anwar
 
 kresna
 
-hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
 Dimas Tjahya 
 
