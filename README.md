@@ -1,3 +1,5 @@
+nyobain pull request pake fork, indomogjack
+
 Joko Susilo
 
 samsul anwar asdasd kebo
@@ -5,13 +7,17 @@ samsul anwar asdasd kebo
 kresna
 
 
-Dimas Tjahya 
-
-latihan tema jogja bersama maz Pieter ....
+Sudah kuduga....
 
 
 87979879879
 
 ddddddddddddddddddddddddddd
 
+
 git aja aja dimas 
+
+coba fork by samsul
+
+git aja
+
