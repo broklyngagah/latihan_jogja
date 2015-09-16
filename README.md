@@ -1,5 +1,7 @@
 nyobain pull request pake fork, indomogjack
 
+ngedit lagi nih, indomogjack
+
 Joko Susilo
 
 samsul anwar asdasd kebo
@@ -16,6 +18,9 @@ ddddddddddddddddddddddddddd
 
 coba fork by samsul
 
+tambahan lagi samsul
+
 git aja
 
 lhoo
+
